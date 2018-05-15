@@ -18,7 +18,7 @@ Bamazon is a Amazon CLI to order products.
 You see products that are for sale, select them and purchase them in the shop.
 
 To purchase an item select the item ID than enter the amount of them item you want.
-[Step 1](images/Step.png)
+![Step 1](images/Step.png)
 
 If an Item it out of stock or not enough quanity of item was entered the user will be notifed and prompted to try again.
 
